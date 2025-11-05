@@ -1,2 +1,2 @@
-# LR1
-First lab report AITypes of Search Algorithms
+#  Search Algorithms: Trace Breadth-First Search (BFS) and Depth-First Search (DFS)
+First lab report AI Types of Search Algorithms
